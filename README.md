@@ -1,11 +1,12 @@
 应用服务器
 ========
 
-**Requirements:**
+**人脸识别服务及接口:**
 
-* Java 6+
-* Grails 1.3.4
-* PostgreSQL 8+ *(required for testing, other runtime databases are supported)*
+* 人脸添加
+* 人脸列表查看
+* 人脸删除
+* 人脸识别
 
 To run jBilling from source you will need to have Java 6+ and Grails 1.3.4 installed. To install grails, download version 1.3.4 from the [Grails Archive](http://www.grails.org/download/archive/Grails) and follow the installation instructions for your operating system. 
 

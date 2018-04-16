@@ -8,16 +8,16 @@
 * 人脸删除
 * 人脸识别
 
-To run jBilling from source you will need to have Java 6+ and Grails 1.3.4 installed. To install grails, download version 1.3.4 from the [Grails Archive](http://www.grails.org/download/archive/Grails) and follow the installation instructions for your operating system. 
 
-[Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html) and [PostgreSQL](http://www.postgresql.org/) can be downloaded an installed by visiting the vendor's websites, or in linux environments by using the package manager (apt-get or yum).
-
-
-
-Cloning the Source Code from GitHub
+人脸添加
 -----------------------------------
 
-Install [Git](http://git-scm.com/download/). 
+**请求参数**: 
+人脸图片
+人脸名称
+
+响应参数返回:
+
 
 Clone the repository from `git@github.com:emilc/jBilling.git` 
 
